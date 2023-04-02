@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="google.code.validationframework.swing" type="repository">
+    <properties maven-id="com.google.code.validationframework:validationframework-swing:3.2.6" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/validationframework/validationframework-swing/3.2.6/validationframework-swing-3.2.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/validationframework/validationframework-core/3.2.6/validationframework-core-3.2.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/jna/jna/3.5.2/jna-3.5.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/jna/platform/3.5.2/platform-3.5.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/java/timingframework/timingframework-core/5.5.0/timingframework-core-5.5.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/surelogic/promises/4.4.0/promises-4.4.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/java/timingframework/timingframework-swing/5.5.0/timingframework-swing-5.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
